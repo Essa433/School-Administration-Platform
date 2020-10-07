@@ -1,0 +1,16 @@
+body {
+  background-color: white;
+}
+h1 {
+color: red;
+
+}
+h2.one {
+  border-style: solid;
+  border-color: silver;
+  border-width:  10px;
+  font-size: 25px;
+  border-collapse: collapse;
+  width: 75%;
+
+}
